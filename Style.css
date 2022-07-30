@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: darkturquoise;
+    font-family: serif;
+}
+
+#footer {
+    color: forestgreen;
+    font-size: 15px;
+    position: fixed;
+    bottom:0;
+    width: 100% ;
+    line-height: 1;
+}
